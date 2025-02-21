@@ -19,11 +19,19 @@ Instructions on How to Build and Run The Project:
 
 
 Other related information:
-1. Client need to sign-off different phases:
-Project Deliverables – referring to the Project Planning documents prior to the development stage as well as other deliverables throughout the project development
+1. Client need to sign-off different phases during:
+Project Deliverables, changing Orders, after User Acceptance Testing, Solution Acceptance for formal final signing off at time of solution deployment (installation) to indicate everything in the scope of the project is complete and client agrees with this.
 
-2. Change Orders – referring to all project changes outside the original project scope/requirements and that the customer accepts and agrees to pay for additional work
+2. Support and Warranty
+All tools and materials necessary for this project (including computers, software licenses, and other necessary resources) are the responsibility of the Firm. The project is provided "as is," without warranties, and the Firm is responsible for ensuring that all required tools are available.  
 
-3. User Acceptance Testing – referring to testing by the customer in which they agree that the solution is ready for deployment and do not see any glaring issues/bugs
+3. License:
+This project is licensed under the **MIT License**.  
 
-4. Solution Acceptance – formal final sign off at time of solution deployment (installation) to indicate everything in the scope of the project is complete and that the customer agrees with this. This may be coupled with a meeting reviewing projects requirements and deliverables to verify completeness
+
+4. We chose the MIT License because:  
+a. It allows users to freely use, modify, and distribute the project.  
+b. It is simple and permissive, making it ideal for both open-source and commercial use.  
+c. It does not impose restrictions on future development.  
+
+For more details, see the SMART MEDICAL HELPER LICENSE file.
